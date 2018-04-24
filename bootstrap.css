@@ -147,11 +147,17 @@ body {
     margin-right: 40px;
   }
   
-  .work img {
-    width: 100%;
+  .portfolioImg {
+    width: 200px;
     border: 0 none;
     opacity: 0.8;
+    float: left;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
   }
+
+
   
   .work h3 {
     position: absolute;
@@ -213,4 +219,8 @@ body {
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
+  }
+  .wrapper {
+   width:1024;
+
   }
